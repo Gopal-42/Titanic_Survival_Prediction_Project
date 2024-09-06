@@ -1,4 +1,3 @@
-# CodSoft_TASK_No.-1
 # Titanic Survival Prediction 
 # Author: Gopal Krishna 
 # Batch: July A58
