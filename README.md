@@ -1,6 +1,5 @@
 # Titanic Survival Prediction 
 # Author: Gopal Krishna 
-# Batch: July A58
 # Domain: DATA SCIENCE 
 
 # **Aim**
